@@ -1,5 +1,4 @@
 import Landing from '../components/Landing'
-import styled from 'styled-components'
 
 const Index = () => (
   <Landing title="Michael Vorster : Portfolio">
